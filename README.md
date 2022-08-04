@@ -11,4 +11,5 @@ _Identify the sets of leads of X Education company so that the lead conversion r
 customers that are more likely to purchase their product/course. The company needs a model where in it assigns a lead score to each of the leads such that the customers with high lead score have a higher conversion rate & the customer with lower lead score have a lower conversion rate_
 
 
-### Thank You
+<p align="center"><img src="https://user-images.githubusercontent.com/102786084/182737997-2d48fbfc-8113-4e6a-8266-abc9b5cc1998.png" width="1000" height="750" left="0">
+
